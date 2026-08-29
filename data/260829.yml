@@ -1,0 +1,89 @@
+about:
+  description: The Meson Build System
+  license: Apache-2.0
+  homepage: http://mesonbuild.com
+  head: e6bb7f2
+  archived: false
+  latestVersion: 1.12.0
+  collectedAt: 2026-08-29T07:29:51Z
+timeline:
+  created: 2014-05-14
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-10
+popularity:
+  star: 6615
+  watcher: 110
+  fork: 1934
+  release: 190
+  contributor: 1006
+  pullRequest: 1757
+  issue: 6661
+language:
+  Python: 5378332
+  Meson: 800616
+  C: 246302
+  Shell: 69209
+  C++: 66577
+  CMake: 40591
+  Rust: 15180
+  Fortran: 12981
+  Cuda: 11426
+  Vim Script: 10697
+  Vala: 10272
+  D: 8397
+  Assembly: 7175
+  PowerShell: 4548
+  Java: 4196
+  Cython: 2157
+  Swift: 2026
+  QML: 1980
+  Batchfile: 1870
+  Objective-C: 1405
+  Objective-C++: 1372
+  C#: 1318
+  HTML: 897
+  Verilog: 696
+  Genie: 476
+  Inno Setup: 354
+  Modula-3: 353
+  Roff: 268
+  Lex: 241
+  JavaScript: 150
+  Yacc: 149
+  LLVM: 75
+  RPC: 54
+  Limbo: 28
+totalLine: 6702368
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 39
+    openPR: 16
+    closedIssue: 12
+    openIssue: 24
+    commit: 103
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 109
+    openPR: 37
+    closedIssue: 41
+    openIssue: 62
+    commit: 324
+  last180d:
+    since: 2026-03-02
+    release: 11
+    mergedPR: 241
+    openPR: 57
+    closedIssue: 84
+    openIssue: 105
+    commit: 764
+  last360d:
+    since: 2025-09-03
+    release: 18
+    mergedPR: 533
+    openPR: 82
+    closedIssue: 201
+    openIssue: 196
+    commit: 1531
