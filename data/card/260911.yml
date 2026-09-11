@@ -7,7 +7,7 @@ about:
   latestVersion: "1.12.0"
   latestRelease: "1.12.0"
   latestPrerelease: "1.12.0rc3"
-  collectedAt: 2026-09-11T06:25:26Z
+  collectedAt: 2026-09-11T18:24:50Z
 timeline:
   created: 2014-05-14
   lastCommit: 2026-09-11
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 6628
   watcher: 111
-  fork: 1940
+  fork: 1941
   release: 190
   contributor: 1007
-  pullRequest: 8903
+  pullRequest: 8904
   issue: 6670
 language:
   Python: 5408808
@@ -63,7 +63,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 39
-    openPR: 14
+    openPR: 15
     closedIssue: 11
     openIssue: 18
     commit: 135
@@ -71,7 +71,7 @@ recent:
     since: 2026-07-13
     release: 3
     mergedPR: 69
-    openPR: 27
+    openPR: 28
     closedIssue: 24
     openIssue: 38
     commit: 216
@@ -79,7 +79,7 @@ recent:
     since: 2026-06-13
     release: 5
     mergedPR: 100
-    openPR: 36
+    openPR: 37
     closedIssue: 35
     openIssue: 56
     commit: 295
@@ -87,7 +87,7 @@ recent:
     since: 2026-03-15
     release: 11
     mergedPR: 245
-    openPR: 56
+    openPR: 57
     closedIssue: 88
     openIssue: 103
     commit: 811
@@ -95,7 +95,7 @@ recent:
     since: 2025-09-16
     release: 18
     mergedPR: 543
-    openPR: 80
+    openPR: 81
     closedIssue: 194
     openIssue: 193
     commit: 1604
@@ -103,20 +103,20 @@ recent:
     since: 2024-09-21
     release: 38
     mergedPR: 1053
-    openPR: 168
+    openPR: 169
     closedIssue: 536
     openIssue: 390
     commit: 2848
 total:
   release: 190
   mergedPR: 7142
-  openPR: 511
+  openPR: 512
   closedIssue: 4919
   openIssue: 1751
   commit: 17861
 ---
 path: /home/runner/.x-repo/github.com/mesonbuild/meson
-collectedAt: 2026-09-11T06:25:44Z
+collectedAt: 2026-09-11T18:25:02Z
 loc:
   Python:
     code: 101823
