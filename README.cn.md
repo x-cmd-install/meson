@@ -14,12 +14,12 @@ x install meson
 
 ## 代码洞察
 
-合计: **151,394** 行代码（覆盖前 5 种语言、共 **3609** 个文件）。
+合计: **151,392** 行代码（覆盖前 5 种语言、共 **3608** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Python | 101,823 | 9,896 | 17,872 | 562 |
-| Meson | 18,878 | 2,117 | 4,890 | 1608 |
+| Meson | 18,876 | 2,117 | 4,889 | 1607 |
 | C | 8,017 | 622 | 1,487 | 937 |
 | Yaml | 5,992 | 50 | 648 | 102 |
 | Json | 4,916 | 0 | 31 | 400 |
@@ -43,27 +43,27 @@ x install meson
 ## 发布
 
 - **最新版本**: `1.12.0` (2026-08-10)
-- **最近提交**: 2026-09-11
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 6,631 · **Fork**: 1,939 · **开放 issue**: 6,671 · **贡献者**: 1,007
+- **Star**: 6,631 · **Fork**: 1,940 · **开放 issue**: 6,671 · **贡献者**: 1,007
 
 ## 累计统计
 
-- **发布数**: 190 · **已合并 PR**: 7142 · **开放 PR**: 514 · **已关闭 issue**: 4920 · **开放 issue**: 1751 · **提交数**: 17861
+- **发布数**: 190 · **已合并 PR**: 7143 · **开放 PR**: 513 · **已关闭 issue**: 4920 · **开放 issue**: 1751 · **提交数**: 17862
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 35 | 17 | 10 | 16 | 98 |
-| last60d | 2026-07-15 | 3 | 69 | 29 | 24 | 35 | 206 |
-| 90d | 2026-06-15 | 5 | 99 | 38 | 36 | 56 | 272 |
-| last180d | 2026-03-17 | 10 | 236 | 59 | 88 | 103 | 779 |
-| 360d | 2025-09-18 | 18 | 543 | 83 | 194 | 193 | 1591 |
-| last720d | 2024-09-23 | 38 | 1051 | 171 | 534 | 389 | 2841 |
+| 30d | 2026-08-15 | 0 | 33 | 16 | 8 | 14 | 99 |
+| last60d | 2026-07-16 | 3 | 69 | 28 | 24 | 34 | 207 |
+| 90d | 2026-06-16 | 5 | 100 | 37 | 36 | 56 | 273 |
+| last180d | 2026-03-18 | 10 | 236 | 58 | 87 | 101 | 780 |
+| 360d | 2025-09-19 | 18 | 544 | 82 | 194 | 193 | 1592 |
+| last720d | 2024-09-24 | 38 | 1050 | 170 | 533 | 389 | 2835 |
 
 ## Release 资产
 
@@ -75,25 +75,6 @@ x install meson
 | [meson-reference.3](https://github.com/mesonbuild/meson/releases/download/1.12.0/meson-reference.3) | 376.7 KiB | `other` |
 | [reference_manual.json](https://github.com/mesonbuild/meson/releases/download/1.12.0/reference_manual.json) | 607.5 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/meson) 上共有 **353** 个发行版报告此项目。**61** 个 ✅ 已是最新上游版本，**201** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.12.0` | ✅ latest |
-| Debian 14 | `1.12.0` | ✅ latest |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.10.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.3.2` | ⚠️ outdated |
-| Arch | `1.12.0` | ✅ latest |
-| Homebrew | `1.12.0` | ✅ latest |
-| Fedora rawhide | `1.12.0` | ✅ latest |
-| Nix unstable | `1.10.2` | ⚠️ outdated |
-| Void | `1.12.0` | ✅ latest |
-| Alpine edge | `1.12.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.12.0` | ✅ latest |
-
 ## 改进这些数据
 
 meson 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `meson` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -103,4 +84,4 @@ meson 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:31:50Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:46:48Z._

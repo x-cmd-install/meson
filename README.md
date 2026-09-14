@@ -14,12 +14,12 @@ x install meson
 
 ## Code insight
 
-Total: **151,394** lines of code across **3609** files in the top 5 languages.
+Total: **151,392** lines of code across **3608** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 101,823 | 9,896 | 17,872 | 562 |
-| Meson | 18,878 | 2,117 | 4,890 | 1608 |
+| Meson | 18,876 | 2,117 | 4,889 | 1607 |
 | C | 8,017 | 622 | 1,487 | 937 |
 | Yaml | 5,992 | 50 | 648 | 102 |
 | Json | 4,916 | 0 | 31 | 400 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.12.0` (2026-08-10)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-13
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,631 · **Forks**: 1,939 · **Open issues**: 6,671 · **Contributors**: 1,007
+- **Stars**: 6,631 · **Forks**: 1,940 · **Open issues**: 6,671 · **Contributors**: 1,007
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 7142 · **Open PRs**: 514 · **Closed issues**: 4920 · **Open issues**: 1751 · **Commits**: 17861
+- **Releases**: 190 · **Merged PRs**: 7143 · **Open PRs**: 513 · **Closed issues**: 4920 · **Open issues**: 1751 · **Commits**: 17862
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 35 | 17 | 10 | 16 | 98 |
-| last60d | 2026-07-15 | 3 | 69 | 29 | 24 | 35 | 206 |
-| 90d | 2026-06-15 | 5 | 99 | 38 | 36 | 56 | 272 |
-| last180d | 2026-03-17 | 10 | 236 | 59 | 88 | 103 | 779 |
-| 360d | 2025-09-18 | 18 | 543 | 83 | 194 | 193 | 1591 |
-| last720d | 2024-09-23 | 38 | 1051 | 171 | 534 | 389 | 2841 |
+| 30d | 2026-08-15 | 0 | 33 | 16 | 8 | 14 | 99 |
+| last60d | 2026-07-16 | 3 | 69 | 28 | 24 | 34 | 207 |
+| 90d | 2026-06-16 | 5 | 100 | 37 | 36 | 56 | 273 |
+| last180d | 2026-03-18 | 10 | 236 | 58 | 87 | 101 | 780 |
+| 360d | 2025-09-19 | 18 | 544 | 82 | 194 | 193 | 1592 |
+| last720d | 2024-09-24 | 38 | 1050 | 170 | 533 | 389 | 2835 |
 
 ## Release assets
 
@@ -75,25 +75,6 @@ Lowest-scoring checks:
 | [meson-reference.3](https://github.com/mesonbuild/meson/releases/download/1.12.0/meson-reference.3) | 376.7 KiB | `other` |
 | [reference_manual.json](https://github.com/mesonbuild/meson/releases/download/1.12.0/reference_manual.json) | 607.5 KiB | `other` |
 
-## Distribution status
-
-Reported by **353** distros on [repology.org](https://repology.org/project/meson). **61** are ✅ on the latest upstream release, **201** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.12.0` | ✅ latest |
-| Debian 14 | `1.12.0` | ✅ latest |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.10.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.3.2` | ⚠️ outdated |
-| Arch | `1.12.0` | ✅ latest |
-| Homebrew | `1.12.0` | ✅ latest |
-| Fedora rawhide | `1.12.0` | ✅ latest |
-| Nix unstable | `1.10.2` | ⚠️ outdated |
-| Void | `1.12.0` | ✅ latest |
-| Alpine edge | `1.12.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.12.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `meson` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:31:49Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:46:47Z._
