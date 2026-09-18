@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,633 · **Forks**: 1,939 · **Open issues**: 6,671 · **Contributors**: 1,008
+- **Stars**: 6,632 · **Forks**: 1,940 · **Open issues**: 6,671 · **Contributors**: 1,008
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 7149 · **Open PRs**: 509 · **Closed issues**: 4925 · **Open issues**: 1746 · **Commits**: 17893
+- **Releases**: 190 · **Merged PRs**: 7149 · **Open PRs**: 510 · **Closed issues**: 4925 · **Open issues**: 1746 · **Commits**: 17893
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 34 | 15 | 9 | 13 | 111 |
-| last60d | 2026-07-19 | 3 | 70 | 26 | 24 | 31 | 220 |
-| 90d | 2026-06-19 | 5 | 103 | 33 | 37 | 52 | 295 |
-| last180d | 2026-03-21 | 10 | 236 | 54 | 88 | 99 | 811 |
-| 360d | 2025-09-22 | 18 | 548 | 77 | 196 | 190 | 1623 |
-| last720d | 2024-09-27 | 38 | 1050 | 166 | 535 | 383 | 2857 |
+| 30d | 2026-08-19 | 0 | 33 | 16 | 7 | 10 | 111 |
+| last60d | 2026-07-20 | 3 | 68 | 26 | 23 | 29 | 220 |
+| 90d | 2026-06-20 | 5 | 103 | 34 | 37 | 51 | 295 |
+| last180d | 2026-03-22 | 10 | 235 | 55 | 87 | 99 | 811 |
+| 360d | 2025-09-23 | 17 | 545 | 78 | 195 | 190 | 1623 |
+| last720d | 2024-09-28 | 38 | 1048 | 166 | 535 | 383 | 2855 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:52:50Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:41:28Z._
