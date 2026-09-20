@@ -4,7 +4,7 @@
 
 The Meson Build System
 
-![meson](https://repo.x-cmd.io/meson.svg)
+[![x-cmd/install — meson Code Quality Monitoring Repo Card](https://repo.x-cmd.io/meson.svg)](https://x-cmd.com/install/meson)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,632 · **Forks**: 1,940 · **Open issues**: 6,671 · **Contributors**: 1,008
+- **Stars**: 6,632 · **Forks**: 1,942 · **Open issues**: 6,672 · **Contributors**: 1,008
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 7149 · **Open PRs**: 510 · **Closed issues**: 4925 · **Open issues**: 1746 · **Commits**: 17893
+- **Releases**: 190 · **Merged PRs**: 7149 · **Open PRs**: 509 · **Closed issues**: 4925 · **Open issues**: 1747 · **Commits**: 17893
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 33 | 16 | 7 | 10 | 111 |
-| last60d | 2026-07-20 | 3 | 68 | 26 | 23 | 29 | 220 |
-| 90d | 2026-06-20 | 5 | 103 | 34 | 37 | 51 | 295 |
-| last180d | 2026-03-22 | 10 | 235 | 55 | 87 | 99 | 811 |
-| 360d | 2025-09-23 | 17 | 545 | 78 | 195 | 190 | 1623 |
-| last720d | 2024-09-28 | 38 | 1048 | 166 | 535 | 383 | 2855 |
+| 30d | 2026-08-21 | 0 | 31 | 15 | 7 | 11 | 72 |
+| last60d | 2026-07-22 | 2 | 66 | 26 | 22 | 28 | 197 |
+| 90d | 2026-06-22 | 5 | 102 | 33 | 37 | 50 | 267 |
+| last180d | 2026-03-24 | 10 | 231 | 54 | 86 | 100 | 801 |
+| 360d | 2025-09-25 | 17 | 543 | 77 | 195 | 191 | 1599 |
+| last720d | 2024-09-30 | 38 | 1042 | 165 | 535 | 382 | 2850 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:41:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:29:55Z._
