@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,638 · **Forks**: 1,945 · **Open issues**: 6,677 · **Contributors**: 1,012
+- **Stars**: 6,638 · **Forks**: 1,944 · **Open issues**: 6,677 · **Contributors**: 1,012
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 26 | 8 | 7 | 8 | 93 |
-| last60d | 2026-08-01 | 3 | 72 | 19 | 26 | 23 | 228 |
-| 90d | 2026-07-02 | 6 | 102 | 25 | 39 | 44 | 356 |
-| last180d | 2026-04-03 | 9 | 233 | 46 | 89 | 96 | 879 |
-| 360d | 2025-10-05 | 17 | 542 | 69 | 194 | 187 | 1654 |
-| last720d | 2024-10-10 | 38 | 1047 | 154 | 528 | 374 | 2915 |
+| 30d | 2026-09-01 | 1 | 24 | 7 | 7 | 8 | 94 |
+| last60d | 2026-08-02 | 3 | 72 | 19 | 25 | 23 | 229 |
+| 90d | 2026-07-03 | 6 | 102 | 25 | 38 | 43 | 357 |
+| last180d | 2026-04-04 | 9 | 231 | 46 | 88 | 96 | 880 |
+| 360d | 2025-10-06 | 17 | 535 | 69 | 194 | 187 | 1655 |
+| last720d | 2024-10-11 | 38 | 1043 | 153 | 527 | 374 | 2915 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T07:03:59Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:19:26Z._
