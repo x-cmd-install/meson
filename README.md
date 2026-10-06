@@ -14,11 +14,11 @@ x install meson
 
 ## Code insight
 
-Total: **153,559** lines of code across **3652** files in the top 5 languages.
+Total: **153,560** lines of code across **3652** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 103,391 | 10,031 | 18,104 | 566 |
+| Python | 103,392 | 10,032 | 18,105 | 566 |
 | Meson | 19,093 | 2,142 | 4,939 | 1631 |
 | C | 8,082 | 626 | 1,501 | 946 |
 | Yaml | 6,024 | 50 | 651 | 102 |
@@ -26,7 +26,7 @@ Total: **153,559** lines of code across **3652** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.12.1` (2026-09-22)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-05
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,641 · **Forks**: 1,946 · **Open issues**: 6,677 · **Contributors**: 1,015
+- **Stars**: 6,641 · **Forks**: 1,946 · **Open issues**: 6,678 · **Contributors**: 1,015
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 7180 · **Open PRs**: 493 · **Closed issues**: 4957 · **Open issues**: 1720 · **Commits**: 18013
+- **Releases**: 191 · **Merged PRs**: 7181 · **Open PRs**: 492 · **Closed issues**: 4958 · **Open issues**: 1720 · **Commits**: 18015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 26 | 8 | 5 | 6 | 58 |
-| last60d | 2026-08-06 | 2 | 73 | 17 | 23 | 20 | 219 |
-| 90d | 2026-07-07 | 6 | 105 | 25 | 37 | 38 | 359 |
-| last180d | 2026-04-08 | 8 | 235 | 44 | 89 | 93 | 880 |
-| 360d | 2025-10-10 | 17 | 537 | 67 | 198 | 179 | 1627 |
-| last720d | 2024-10-15 | 37 | 1050 | 149 | 535 | 361 | 2919 |
+| 30d | 2026-09-06 | 1 | 26 | 7 | 5 | 7 | 60 |
+| last60d | 2026-08-07 | 2 | 73 | 15 | 23 | 21 | 221 |
+| 90d | 2026-07-08 | 5 | 105 | 24 | 36 | 39 | 361 |
+| last180d | 2026-04-09 | 8 | 235 | 42 | 88 | 93 | 882 |
+| 360d | 2025-10-11 | 17 | 537 | 66 | 199 | 179 | 1629 |
+| last720d | 2024-10-16 | 37 | 1050 | 148 | 534 | 361 | 2921 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:05:36Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:50:23Z._
