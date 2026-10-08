@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15654912,
       "digest": "sha256:0e541b6ae656cd9c8f9d5f8ac9eddc22c68d37006ae1dfd055e3ab485519804d",
-      "download_count": 2312,
+      "download_count": 2514,
       "created_at": "2026-09-27T12:01:52Z",
       "updated_at": "2026-09-27T12:02:01Z",
       "browser_download_url": "https://github.com/mesonbuild/meson/releases/download/1.12.1/meson-1.12.1-64.msi"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2524665,
       "digest": "sha256:ab0a6ca09f8ef70c564c8241fb5a23957886a0b53fb58412b5e07eaf07dba743",
-      "download_count": 8270,
+      "download_count": 8952,
       "created_at": "2026-09-22T22:57:40Z",
       "updated_at": "2026-09-22T22:57:47Z",
       "browser_download_url": "https://github.com/mesonbuild/meson/releases/download/1.12.1/meson-1.12.1.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 622059,
       "digest": "sha256:727da13815ea189dcc6204097bda1b4de47b3eef5fa6d6caa58fc8c8c4edfec7",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-09-22T22:59:43Z",
       "updated_at": "2026-09-22T22:59:43Z",
       "browser_download_url": "https://github.com/mesonbuild/meson/releases/download/1.12.1/reference_manual.json"
