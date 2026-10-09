@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.12.1` (2026-09-22)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-09
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,643 · **Forks**: 1,946 · **Open issues**: 6,679 · **Contributors**: 1,015
+- **Stars**: 6,645 · **Forks**: 1,946 · **Open issues**: 6,680 · **Contributors**: 1,015
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 7181 · **Open PRs**: 492 · **Closed issues**: 4958 · **Open issues**: 1721 · **Commits**: 18015
+- **Releases**: 191 · **Merged PRs**: 7182 · **Open PRs**: 494 · **Closed issues**: 4965 · **Open issues**: 1715 · **Commits**: 18016
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 26 | 6 | 5 | 7 | 60 |
-| last60d | 2026-08-09 | 2 | 70 | 15 | 22 | 22 | 221 |
-| 90d | 2026-07-10 | 5 | 103 | 23 | 33 | 40 | 361 |
-| last180d | 2026-04-11 | 8 | 234 | 42 | 87 | 93 | 882 |
-| 360d | 2025-10-13 | 17 | 532 | 65 | 199 | 176 | 1629 |
-| last720d | 2024-10-18 | 37 | 1049 | 148 | 533 | 361 | 2919 |
+| 30d | 2026-09-09 | 1 | 24 | 8 | 6 | 6 | 61 |
+| last60d | 2026-08-10 | 2 | 66 | 16 | 23 | 20 | 222 |
+| 90d | 2026-07-11 | 5 | 103 | 25 | 34 | 40 | 362 |
+| last180d | 2026-04-12 | 8 | 235 | 44 | 87 | 93 | 883 |
+| 360d | 2025-10-14 | 17 | 532 | 67 | 199 | 175 | 1630 |
+| last720d | 2024-10-19 | 37 | 1050 | 150 | 533 | 361 | 2917 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:29:18Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:31:36Z._
