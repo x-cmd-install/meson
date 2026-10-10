@@ -14,14 +14,14 @@ x install meson
 
 ## Code insight
 
-Total: **153,560** lines of code across **3652** files in the top 5 languages.
+Total: **153,576** lines of code across **3652** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 103,392 | 10,032 | 18,105 | 566 |
 | Meson | 19,093 | 2,142 | 4,939 | 1631 |
 | C | 8,082 | 626 | 1,501 | 946 |
-| Yaml | 6,024 | 50 | 651 | 102 |
+| Yaml | 6,040 | 51 | 651 | 102 |
 | Json | 4,974 | 0 | 31 | 407 |
 
 ## OpenSSF Scorecard
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,645 · **Forks**: 1,946 · **Open issues**: 6,680 · **Contributors**: 1,015
+- **Stars**: 6,644 · **Forks**: 1,945 · **Open issues**: 6,680 · **Contributors**: 1,015
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 7182 · **Open PRs**: 494 · **Closed issues**: 4965 · **Open issues**: 1715 · **Commits**: 18016
+- **Releases**: 191 · **Merged PRs**: 7182 · **Open PRs**: 493 · **Closed issues**: 4970 · **Open issues**: 1710 · **Commits**: 18017
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 24 | 8 | 6 | 6 | 61 |
-| last60d | 2026-08-10 | 2 | 66 | 16 | 23 | 20 | 222 |
-| 90d | 2026-07-11 | 5 | 103 | 25 | 34 | 40 | 362 |
-| last180d | 2026-04-12 | 8 | 235 | 44 | 87 | 93 | 883 |
-| 360d | 2025-10-14 | 17 | 532 | 67 | 199 | 175 | 1630 |
-| last720d | 2024-10-19 | 37 | 1050 | 150 | 533 | 361 | 2917 |
+| 30d | 2026-09-10 | 1 | 23 | 6 | 5 | 6 | 62 |
+| last60d | 2026-08-11 | 1 | 67 | 15 | 22 | 21 | 223 |
+| 90d | 2026-07-12 | 4 | 104 | 25 | 34 | 40 | 363 |
+| last180d | 2026-04-13 | 8 | 236 | 44 | 87 | 94 | 884 |
+| 360d | 2025-10-15 | 17 | 531 | 66 | 199 | 174 | 1631 |
+| last720d | 2024-10-20 | 37 | 1047 | 150 | 534 | 359 | 2918 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:31:36Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T07:03:00Z._
