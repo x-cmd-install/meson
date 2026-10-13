@@ -31,8 +31,8 @@ x install meson
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install meson
 
 ## 流行度
 
-- **Star**: 6,645 · **Fork**: 1,943 · **开放 issue**: 6,680 · **贡献者**: 1,015
+- **Star**: 6,646 · **Fork**: 1,945 · **开放 issue**: 6,680 · **贡献者**: 1,015
 
 ## 累计统计
 
-- **发布数**: 191 · **已合并 PR**: 7183 · **开放 PR**: 492 · **已关闭 issue**: 4971 · **开放 issue**: 1709 · **提交数**: 18019
+- **发布数**: 191 · **已合并 PR**: 7183 · **开放 PR**: 494 · **已关闭 issue**: 4971 · **开放 issue**: 1709 · **提交数**: 18019
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 22 | 4 | 5 | 5 | 39 |
-| last60d | 2026-08-13 | 1 | 64 | 14 | 19 | 20 | 185 |
-| 90d | 2026-07-14 | 4 | 100 | 23 | 33 | 36 | 329 |
-| last180d | 2026-04-15 | 7 | 234 | 43 | 82 | 91 | 861 |
-| 360d | 2025-10-17 | 17 | 523 | 65 | 200 | 173 | 1587 |
-| last720d | 2024-10-22 | 36 | 1047 | 149 | 533 | 358 | 2908 |
+| 30d | 2026-09-13 | 1 | 22 | 6 | 5 | 5 | 39 |
+| last60d | 2026-08-14 | 1 | 63 | 16 | 18 | 18 | 185 |
+| 90d | 2026-07-15 | 4 | 100 | 25 | 33 | 36 | 329 |
+| last180d | 2026-04-16 | 7 | 233 | 45 | 81 | 91 | 861 |
+| 360d | 2025-10-18 | 17 | 523 | 66 | 200 | 173 | 1587 |
+| last720d | 2024-10-23 | 36 | 1045 | 151 | 530 | 356 | 2908 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ meson 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T07:28:23Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T08:19:01Z._
