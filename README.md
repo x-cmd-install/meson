@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,650 · **Forks**: 1,957 · **Open issues**: 6,691 · **Contributors**: 1,024
+- **Stars**: 6,652 · **Forks**: 1,957 · **Open issues**: 6,693 · **Contributors**: 1,024
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 7215 · **Open PRs**: 492 · **Closed issues**: 4991 · **Open issues**: 1700 · **Commits**: 18074
+- **Releases**: 191 · **Merged PRs**: 7215 · **Open PRs**: 492 · **Closed issues**: 4991 · **Open issues**: 1702 · **Commits**: 18074
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 40 | 13 | 7 | 8 | 43 |
-| last60d | 2026-08-26 | 1 | 77 | 18 | 20 | 16 | 156 |
-| 90d | 2026-07-27 | 3 | 116 | 29 | 37 | 32 | 303 |
-| last180d | 2026-04-28 | 6 | 244 | 46 | 82 | 86 | 864 |
-| 360d | 2025-10-30 | 17 | 526 | 66 | 202 | 165 | 1515 |
-| last720d | 2024-11-04 | 36 | 1057 | 149 | 534 | 343 | 2944 |
+| 30d | 2026-09-26 | 0 | 39 | 13 | 7 | 10 | 43 |
+| last60d | 2026-08-27 | 1 | 74 | 18 | 18 | 15 | 156 |
+| 90d | 2026-07-28 | 3 | 116 | 29 | 37 | 34 | 303 |
+| last180d | 2026-04-29 | 6 | 244 | 46 | 82 | 88 | 864 |
+| 360d | 2025-10-31 | 17 | 521 | 65 | 201 | 167 | 1515 |
+| last720d | 2024-11-05 | 36 | 1054 | 149 | 533 | 345 | 2942 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **352** distros on [repology.org](https://repology.org/project/meson). **69** are ✅ on the latest upstream release, **188** are ⚠️ on an older version.
+Reported by **352** distros on [repology.org](https://repology.org/project/meson). **70** are ✅ on the latest upstream release, **187** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +103,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:59:06Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T06:08:22Z._
