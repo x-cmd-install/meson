@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.12.1` (2026-09-22)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,663 · **Forks**: 1,967 · **Open issues**: 6,707 · **Contributors**: 1,028
+- **Stars**: 6,664 · **Forks**: 1,966 · **Open issues**: 6,707 · **Contributors**: 1,028
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 7240 · **Open PRs**: 499 · **Closed issues**: 5006 · **Open issues**: 1701 · **Commits**: 18143
+- **Releases**: 191 · **Merged PRs**: 7241 · **Open PRs**: 500 · **Closed issues**: 5006 · **Open issues**: 1701 · **Commits**: 18144
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 42 | 22 | 12 | 13 | 57 |
-| last60d | 2026-09-16 | 1 | 71 | 24 | 21 | 16 | 130 |
-| 90d | 2026-08-17 | 1 | 112 | 31 | 33 | 26 | 294 |
-| last180d | 2026-05-19 | 6 | 232 | 48 | 82 | 78 | 744 |
-| 360d | 2025-11-20 | 17 | 511 | 73 | 193 | 157 | 1456 |
-| last720d | 2024-11-25 | 36 | 1048 | 148 | 534 | 330 | 2975 |
+| 30d | 2026-10-17 | 0 | 42 | 23 | 12 | 12 | 58 |
+| last60d | 2026-09-17 | 1 | 72 | 25 | 21 | 16 | 131 |
+| 90d | 2026-08-18 | 1 | 113 | 31 | 33 | 26 | 295 |
+| last180d | 2026-05-20 | 6 | 232 | 48 | 82 | 77 | 745 |
+| 360d | 2025-11-21 | 17 | 512 | 74 | 192 | 157 | 1457 |
+| last720d | 2024-11-26 | 36 | 1047 | 148 | 534 | 328 | 2976 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:21:58Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:54:36Z._
