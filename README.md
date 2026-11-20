@@ -14,11 +14,11 @@ x install meson
 
 ## Code insight
 
-Total: **155,001** lines of code across **3687** files in the top 5 languages.
+Total: **155,003** lines of code across **3687** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 104,426 | 10,191 | 18,295 | 572 |
+| Python | 104,428 | 10,191 | 18,295 | 572 |
 | Meson | 19,271 | 2,170 | 4,980 | 1648 |
 | C | 8,159 | 626 | 1,519 | 957 |
 | Yaml | 6,085 | 52 | 653 | 102 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,670 · **Forks**: 1,970 · **Open issues**: 6,707 · **Contributors**: 1,030
+- **Stars**: 6,670 · **Forks**: 1,971 · **Open issues**: 6,707 · **Contributors**: 1,030
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 7247 · **Open PRs**: 496 · **Closed issues**: 5009 · **Open issues**: 1698 · **Commits**: 18152
+- **Releases**: 191 · **Merged PRs**: 7248 · **Open PRs**: 496 · **Closed issues**: 5009 · **Open issues**: 1698 · **Commits**: 18153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 37 | 21 | 12 | 10 | 64 |
-| last60d | 2026-09-20 | 1 | 75 | 24 | 22 | 14 | 137 |
-| 90d | 2026-08-21 | 1 | 114 | 30 | 32 | 22 | 301 |
-| last180d | 2026-05-23 | 6 | 236 | 47 | 82 | 76 | 751 |
-| 360d | 2025-11-24 | 16 | 511 | 73 | 188 | 155 | 1463 |
-| last720d | 2024-11-29 | 36 | 1052 | 145 | 532 | 324 | 2983 |
+| 30d | 2026-10-21 | 0 | 31 | 21 | 10 | 8 | 65 |
+| last60d | 2026-09-21 | 1 | 73 | 24 | 22 | 14 | 138 |
+| 90d | 2026-08-22 | 1 | 115 | 30 | 32 | 22 | 302 |
+| last180d | 2026-05-24 | 6 | 237 | 47 | 82 | 76 | 752 |
+| 360d | 2025-11-25 | 16 | 508 | 72 | 188 | 153 | 1464 |
+| last720d | 2024-11-30 | 36 | 1053 | 145 | 532 | 322 | 2983 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:29:05Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:40:04Z._
