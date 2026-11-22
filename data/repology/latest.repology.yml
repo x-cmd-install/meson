@@ -1,6 +1,42 @@
 - repo: conancenter
   srcname: meson
   visiblename: meson
+  version: 1.5.1
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: meson
+  visiblename: meson
+  version: 1.4.1
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: meson
+  visiblename: meson
+  version: 1.3.2
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: meson
+  visiblename: meson
+  version: 1.2.3
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: meson
+  visiblename: meson
+  version: 1.1.1
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: meson
+  visiblename: meson
+  version: 1.0.0
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: meson
+  visiblename: meson
   version: 0.62.2
   origversion: null
   status: legacy
@@ -30,6 +66,64 @@
     - ASL 2.0
   categories:
     - Unspecified
+- repo: nix_stable_25_11
+  srcname: meson
+  visiblename: meson
+  version: 1.9.1
+  origversion: null
+  status: outdated
+  summary: Open source, fast and friendly build system made in Python
+  maintainers:
+    - hi@alyssa.is
+  licenses:
+    - Apache-2.0
+- repo: slackwarearm_15_0
+  subrepo: patches
+  binname: meson
+  visiblename: meson
+  version: 1.11.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - volkerdi@slackware.com
+- repo: cygwin
+  srcname: meson
+  binname: meson
+  visiblename: meson
+  version: 1.10.2
+  origversion: 1.10.2-1
+  status: outdated
+  summary: Meson is an open source build system
+  maintainers:
+    - jon.turney@cygwin
+  licenses:
+    - Apache-2.0
+  categories:
+    - Devel
+- repo: openindiana
+  subrepo: hipster
+  srcname: meson
+  binname: library/python/meson
+  visiblename: meson
+  version: 1.7.2
+  origversion: null
+  status: outdated
+  summary: A high performance build system
+  categories:
+    - Development/Python
+- repo: alpine_3_18
+  subrepo: main
+  srcname: meson
+  binname: meson-bash-completion
+  visiblename: meson-bash-completion
+  version: 1.1.0
+  origversion: 1.1.0-r1
+  status: outdated
+  summary: Bash completions for meson
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
 - repo: crux_37
   subrepo: core
   srcname: meson
@@ -50,145 +144,6 @@
   summary: High productivity build system.
   maintainers:
     - core-ports@crux.nu
-- repo: mx_25_testing
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 1.12.0
-  origversion: 1.12.0-2~mx25+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-  categories:
-    - devel
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 0.56.2
-  origversion: 0.56.2-1
-  status: outdated
-  maintainers:
-    - jpakkane@gmail.com
-  categories:
-    - devel
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 1.7.0
-  origversion: 1.7.0-1
-  status: outdated
-  maintainers:
-    - jpakkane@gmail.com
-  categories:
-    - devel
-- repo: slackwarearm_15_0
-  subrepo: patches
-  binname: meson
-  visiblename: meson
-  version: 1.11.1
-  origversion: null
-  status: outdated
-  maintainers:
-    - volkerdi@slackware.com
-- repo: pypi
-  srcname: meson
-  binname: meson
-  visiblename: meson
-  version: 1.12.1
-  origversion: null
-  status: newest
-  summary: A high performance build system
-  maintainers:
-    - jpakkane@gmail.com
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 1.0.1
-  origversion: 1.0.1-5
-  status: outdated
-  maintainers:
-    - jpakkane@gmail.com
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 1.7.0
-  origversion: 1.7.0-1
-  status: outdated
-  maintainers:
-    - jpakkane@gmail.com
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 1.12.1
-  origversion: 1.12.1-2
-  status: newest
-  maintainers:
-    - jussi.pakkanen@mailbox.org
-  categories:
-    - misc
-- repo: xrepo
-  srcname: meson
-  visiblename: meson
-  version: 1.5.1
-  origversion: null
-  status: legacy
-  summary: Fast and user friendly build system.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: meson
-  visiblename: meson
-  version: 1.5.2
-  origversion: null
-  status: legacy
-  summary: Fast and user friendly build system.
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: main
-  srcname: meson
-  binname: meson-pyc
-  visiblename: meson-pyc
-  version: 1.1.0
-  origversion: 1.1.0-r1
-  status: outdated
-  summary: Precompiled Python bytecode for meson
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: conancenter
-  srcname: meson
-  visiblename: meson
-  version: 1.3.2
-  origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: meson
-  visiblename: meson
-  version: 1.2.3
-  origversion: null
-  status: legacy
 - repo: adelie_current
   subrepo: user
   srcname: meson
@@ -347,12 +302,12 @@
 - repo: alpine_3_18
   subrepo: main
   srcname: meson
-  binname: meson-bash-completion
-  visiblename: meson-bash-completion
+  binname: meson-doc
+  visiblename: meson-doc
   version: 1.1.0
   origversion: 1.1.0-r1
   status: outdated
-  summary: Bash completions for meson
+  summary: Fast and user friendly build system (documentation)
   maintainers:
     - fcolista@alpinelinux.org
   licenses:
@@ -360,12 +315,12 @@
 - repo: alpine_3_18
   subrepo: main
   srcname: meson
-  binname: meson-doc
-  visiblename: meson-doc
+  binname: meson-pyc
+  visiblename: meson-pyc
   version: 1.1.0
   origversion: 1.1.0-r1
   status: outdated
-  summary: Fast and user friendly build system (documentation)
+  summary: Precompiled Python bytecode for meson
   maintainers:
     - fcolista@alpinelinux.org
   licenses:
@@ -409,6 +364,18 @@
     - fcolista@alpinelinux.org
   licenses:
     - Apache-2.0
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 1.0.1
+  origversion: 1.0.1-5+apertis2
+  status: outdated
+  maintainers:
+    - jpakkane@gmail.com
+    - mjt@tls.msk.ru
 - repo: alpine_3_19
   subrepo: main
   srcname: meson
@@ -1165,18 +1132,6 @@
   maintainers:
     - jpakkane@gmail.com
     - mjt@tls.msk.ru
-- repo: apertis_v2024
-  subrepo: v2024/development
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 1.0.1
-  origversion: 1.0.1-5+apertis2
-  status: outdated
-  maintainers:
-    - jpakkane@gmail.com
-    - mjt@tls.msk.ru
 - repo: apertis_v2025
   subrepo: v2025/development
   srcname: meson
@@ -1222,29 +1177,6 @@
   summary: High productivity build system
   licenses:
     - Apache-2.0
-- repo: chimera
-  subrepo: main
-  srcname: meson
-  binname: meson-man
-  visiblename: meson-man
-  version: 1.9.1
-  origversion: 1.9.1-r1
-  status: outdated
-  summary: Meson build system (manual pages)
-  licenses:
-    - Apache-2.0
-- repo: conancenter
-  srcname: meson
-  visiblename: meson
-  version: 1.1.1
-  origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: meson
-  visiblename: meson
-  version: 1.0.0
-  origversion: null
-  status: legacy
 - repo: aur
   srcname: meson-git
   binname: meson-git
@@ -1402,6 +1334,12 @@
     - Apache-2.0
   categories:
     - Unspecified
+- repo: conancenter
+  srcname: meson
+  visiblename: meson
+  version: 1.6.0
+  origversion: null
+  status: legacy
 - repo: centos_stream_10
   subrepo: CRB
   srcname: meson
@@ -1452,6 +1390,17 @@
   origversion: 1.9.1-r1
   status: outdated
   summary: Meson build system (bash completions)
+  licenses:
+    - Apache-2.0
+- repo: chimera
+  subrepo: main
+  srcname: meson
+  binname: meson-man
+  visiblename: meson-man
+  version: 1.9.1
+  origversion: 1.9.1-r1
+  status: outdated
+  summary: Meson build system (manual pages)
   licenses:
     - Apache-2.0
 - repo: chimera
@@ -1549,38 +1498,6 @@
   version: 1.7.2
   origversion: null
   status: legacy
-- repo: conancenter
-  srcname: meson
-  visiblename: meson
-  version: 1.6.0
-  origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: meson
-  visiblename: meson
-  version: 1.5.1
-  origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: meson
-  visiblename: meson
-  version: 1.4.1
-  origversion: null
-  status: legacy
-- repo: cygwin
-  srcname: meson
-  binname: meson
-  visiblename: meson
-  version: 1.10.2
-  origversion: 1.10.2-1
-  status: outdated
-  summary: Meson is an open source build system
-  maintainers:
-    - jon.turney@cygwin
-  licenses:
-    - Apache-2.0
-  categories:
-    - Devel
 - repo: debian_11
   subrepo: bullseye/main
   srcname: meson
@@ -1942,20 +1859,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: meson
-  binnames:
-    - meson
-  visiblename: meson
-  version: 1.10.2
-  origversion: 1.10.2-1.fc44
-  status: legacy
-  summary: High productivity build system
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: meson
   binnames:
@@ -1964,6 +1867,20 @@
   version: 1.11.2
   origversion: 1.11.2-1.fc44
   status: outdated
+  summary: High productivity build system
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 1.10.2
+  origversion: 1.10.2-1.fc44
+  status: legacy
   summary: High productivity build system
   licenses:
     - Apache-2.0
@@ -2474,17 +2391,22 @@
     - Apache-2.0
   categories:
     - dev-build
-- repo: nix_stable_24_05
-  srcname: meson
+- repo: macports
+  srcname: devel/meson
+  binname: meson
   visiblename: meson
-  version: 1.4.2
+  version: 1.12.1
   origversion: null
-  status: outdated
-  summary: An open source, fast and friendly build system made in Python
+  status: newest
+  summary: Meson - A high productivity build system
   maintainers:
-    - torres.anderson.85@protonmail.com
+    - soapza@github
+    - reneeotten@macports
+    - reneeotten@github
   licenses:
-    - Apache-2.0
+    - Apache-2
+  categories:
+    - devel
 - repo: macports
   srcname: python/py-meson
   binname: py-meson
@@ -2517,33 +2439,6 @@
     - Apache-2
   categories:
     - python
-- repo: openindiana
-  subrepo: hipster
-  srcname: meson
-  binname: library/python/meson
-  visiblename: meson
-  version: 1.7.2
-  origversion: null
-  status: outdated
-  summary: A high performance build system
-  categories:
-    - Development/Python
-- repo: macports
-  srcname: python/py-meson
-  binname: py311-meson
-  visiblename: py311-meson
-  version: 1.12.1
-  origversion: null
-  status: newest
-  summary: Meson - A high productivity build system
-  maintainers:
-    - soapza@github
-    - reneeotten@macports
-    - reneeotten@github
-  licenses:
-    - Apache-2
-  categories:
-    - python
 - repo: macports
   srcname: python/py-meson
   binname: py312-meson
@@ -2562,8 +2457,8 @@
     - python
 - repo: macports
   srcname: python/py-meson
-  binname: py315-meson
-  visiblename: py315-meson
+  binname: py311-meson
+  visiblename: py311-meson
   version: 1.12.1
   origversion: null
   status: newest
@@ -2609,9 +2504,9 @@
   categories:
     - python
 - repo: macports
-  srcname: devel/meson
-  binname: meson
-  visiblename: meson
+  srcname: python/py-meson
+  binname: py315-meson
+  visiblename: py315-meson
   version: 1.12.1
   origversion: null
   status: newest
@@ -2623,7 +2518,7 @@
   licenses:
     - Apache-2
   categories:
-    - devel
+    - python
 - repo: mageia_10
   subrepo: core/release
   srcname: meson
@@ -2785,6 +2680,29 @@
     - stevep@mxlinux.org
   categories:
     - devel
+- repo: mx_25_testing
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 1.12.0
+  origversion: 1.12.0-2~mx25+1
+  status: outdated
+  maintainers:
+    - stevep@mxlinux.org
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: meson
+  visiblename: meson
+  version: 1.4.2
+  origversion: null
+  status: outdated
+  summary: An open source, fast and friendly build system made in Python
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_11
   srcname: meson
   visiblename: meson
@@ -2808,19 +2726,8 @@
     - hi@alyssa.is
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: meson
-  visiblename: meson
-  version: 1.9.1
-  origversion: null
-  status: outdated
-  summary: Open source, fast and friendly build system made in Python
-  maintainers:
-    - hi@alyssa.is
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
-  srcname: meson
+  srcname: python313Packages.meson
   visiblename: meson
   version: 1.10.2
   origversion: null
@@ -2830,6 +2737,8 @@
     - hi@alyssa.is
   licenses:
     - Apache-2.0
+  categories:
+    - python313Packages
 - repo: nix_stable_26_05
   srcname: python314Packages.meson
   visiblename: meson
@@ -2843,19 +2752,8 @@
     - Apache-2.0
   categories:
     - python314Packages
-- repo: openindiana
-  subrepo: hipster
-  srcname: meson
-  binname: library/python/meson-314
-  visiblename: meson
-  version: 1.7.2
-  origversion: null
-  status: outdated
-  summary: A high performance build system
-  categories:
-    - Development/Python
 - repo: nix_stable_26_05
-  srcname: python313Packages.meson
+  srcname: meson
   visiblename: meson
   version: 1.10.2
   origversion: null
@@ -2865,21 +2763,6 @@
     - hi@alyssa.is
   licenses:
     - Apache-2.0
-  categories:
-    - python313Packages
-- repo: nix_unstable
-  srcname: python313Packages.meson
-  visiblename: meson
-  version: 1.12.1
-  origversion: null
-  status: newest
-  summary: Open source, fast and friendly build system made in Python
-  maintainers:
-    - hi@alyssa.is
-  licenses:
-    - Apache-2.0
-  categories:
-    - python313Packages
 - repo: nix_unstable
   srcname: python314Packages.meson
   visiblename: meson
@@ -2904,6 +2787,19 @@
     - hi@alyssa.is
   licenses:
     - Apache-2.0
+- repo: nix_unstable
+  srcname: python313Packages.meson
+  visiblename: meson
+  version: 1.12.1
+  origversion: null
+  status: newest
+  summary: Open source, fast and friendly build system made in Python
+  maintainers:
+    - hi@alyssa.is
+  licenses:
+    - Apache-2.0
+  categories:
+    - python313Packages
 - repo: openbsd
   srcname: devel/meson
   binname: meson
@@ -3022,15 +2918,17 @@
     - ASL 2.0
   categories:
     - Unspecified
-- repo: slackware64_current
-  subrepo: slackware64
-  binname: meson
+- repo: openindiana
+  subrepo: hipster
+  srcname: meson
+  binname: library/python/meson-314
   visiblename: meson
-  version: 1.12.1
+  version: 1.7.2
   origversion: null
-  status: newest
-  maintainers:
-    - volkerdi@slackware.com
+  status: outdated
+  summary: A high performance build system
+  categories:
+    - Development/Python
 - repo: openindiana
   subrepo: hipster
   srcname: meson
@@ -3243,13 +3141,13 @@
     - Apache-2.0
   categories:
     - Development/Tools/Building
-- repo: slackwarearm_15_0
-  subrepo: slackware
+- repo: slackware64_current
+  subrepo: slackware64
   binname: meson
   visiblename: meson
-  version: 0.59.4
+  version: 1.12.1
   origversion: null
-  status: legacy
+  status: newest
   maintainers:
     - volkerdi@slackware.com
 - repo: opensuse_leap_15_6
@@ -3442,6 +3340,90 @@
     - jpakkane@gmail.com
   categories:
     - devel
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 0.56.2
+  origversion: 0.56.2-1
+  status: outdated
+  maintainers:
+    - jpakkane@gmail.com
+  categories:
+    - devel
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - jpakkane@gmail.com
+  categories:
+    - devel
+- repo: slackwarearm_15_0
+  subrepo: slackware
+  binname: meson
+  visiblename: meson
+  version: 0.59.4
+  origversion: null
+  status: legacy
+  maintainers:
+    - volkerdi@slackware.com
+- repo: pypi
+  srcname: meson
+  binname: meson
+  visiblename: meson
+  version: 1.12.1
+  origversion: null
+  status: newest
+  summary: A high performance build system
+  maintainers:
+    - jpakkane@gmail.com
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 1.0.1
+  origversion: 1.0.1-5
+  status: outdated
+  maintainers:
+    - jpakkane@gmail.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - jpakkane@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: meson
+  binnames:
+    - meson
+  visiblename: meson
+  version: 1.12.1
+  origversion: 1.12.1-2
+  status: newest
+  maintainers:
+    - jussi.pakkanen@mailbox.org
+  categories:
+    - misc
 - repo: ravenports
   srcname: meson
   binname: meson
@@ -3892,7 +3874,7 @@
   status: newest
   summary: build automation system
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
 - repo: xrepo
   srcname: meson
   visiblename: meson
@@ -3933,15 +3915,6 @@
   srcname: meson
   visiblename: meson
   version: 0.59.1
-  origversion: null
-  status: legacy
-  summary: Fast and user friendly build system.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: meson
-  visiblename: meson
-  version: 1.6.0
   origversion: null
   status: legacy
   summary: Fast and user friendly build system.
@@ -4059,6 +4032,33 @@
   srcname: meson
   visiblename: meson
   version: 1.4.2
+  origversion: null
+  status: legacy
+  summary: Fast and user friendly build system.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: meson
+  visiblename: meson
+  version: 1.5.1
+  origversion: null
+  status: legacy
+  summary: Fast and user friendly build system.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: meson
+  visiblename: meson
+  version: 1.5.2
+  origversion: null
+  status: legacy
+  summary: Fast and user friendly build system.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: meson
+  visiblename: meson
+  version: 1.6.0
   origversion: null
   status: legacy
   summary: Fast and user friendly build system.
