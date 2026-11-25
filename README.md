@@ -14,15 +14,15 @@ x install meson
 
 ## Code insight
 
-Total: **154,986** lines of code across **3687** files in the top 5 languages.
+Total: **155,039** lines of code across **3693** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 104,425 | 10,200 | 18,296 | 572 |
-| Meson | 19,261 | 2,170 | 4,978 | 1648 |
-| C | 8,159 | 626 | 1,519 | 957 |
+| Python | 104,448 | 10,203 | 18,298 | 572 |
+| Meson | 19,273 | 2,174 | 4,982 | 1649 |
+| C | 8,167 | 626 | 1,519 | 961 |
 | Yaml | 6,085 | 52 | 653 | 102 |
-| Json | 4,979 | 0 | 31 | 408 |
+| Json | 4,984 | 0 | 31 | 409 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.13.0rc1` (2026-09-22)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,678 · **Forks**: 1,973 · **Open issues**: 6,709 · **Contributors**: 1,030
+- **Stars**: 6,680 · **Forks**: 1,973 · **Open issues**: 6,709 · **Contributors**: 1,030
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 7250 · **Open PRs**: 499 · **Closed issues**: 5010 · **Open issues**: 1699 · **Commits**: 18158
+- **Releases**: 192 · **Merged PRs**: 7253 · **Open PRs**: 496 · **Closed issues**: 5010 · **Open issues**: 1699 · **Commits**: 18163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 26 | 22 | 8 | 8 | 31 |
-| last60d | 2026-09-25 | 1 | 73 | 28 | 19 | 14 | 133 |
-| 90d | 2026-08-26 | 2 | 111 | 32 | 32 | 22 | 244 |
-| last180d | 2026-05-28 | 7 | 231 | 51 | 82 | 73 | 670 |
-| 360d | 2025-11-29 | 17 | 503 | 74 | 187 | 149 | 1440 |
-| last720d | 2024-12-04 | 37 | 1054 | 148 | 531 | 323 | 2987 |
+| 30d | 2026-10-26 | 1 | 27 | 17 | 8 | 7 | 36 |
+| last60d | 2026-09-26 | 1 | 75 | 25 | 19 | 14 | 138 |
+| 90d | 2026-08-27 | 2 | 111 | 29 | 30 | 19 | 249 |
+| last180d | 2026-05-29 | 7 | 234 | 48 | 82 | 72 | 675 |
+| 360d | 2025-11-30 | 17 | 503 | 71 | 186 | 148 | 1445 |
+| last720d | 2024-12-05 | 37 | 1056 | 145 | 530 | 322 | 2991 |
 
 ## Release assets
 
@@ -75,25 +75,6 @@ Lowest-scoring checks:
 | [meson-reference.3](https://github.com/mesonbuild/meson/releases/download/1.12.1/meson-reference.3) | 376.7 KiB | `other` |
 | [reference_manual.json](https://github.com/mesonbuild/meson/releases/download/1.12.1/reference_manual.json) | 607.5 KiB | `other` |
 
-## Distribution status
-
-Reported by **350** distros on [repology.org](https://repology.org/project/meson). **76** are ✅ on the latest upstream release, **180** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.12.1` | ✅ latest |
-| Debian 14 | `1.12.1` | ✅ latest |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.10.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.3.2` | ⚠️ outdated |
-| Arch | `1.12.1` | ✅ latest |
-| Homebrew | `1.12.1` | ✅ latest |
-| Fedora rawhide | `1.12.1` | ✅ latest |
-| Nix unstable | `1.12.1` | ✅ latest |
-| Void | `1.12.0` | ⚠️ outdated |
-| Alpine edge | `1.12.1` | ✅ latest |
-| openSUSE Tumbleweed | `1.12.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `meson` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +84,4 @@ Install metadata for meson lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:49:55Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:27:25Z._

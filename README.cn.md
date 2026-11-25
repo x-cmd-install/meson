@@ -14,15 +14,15 @@ x install meson
 
 ## 代码洞察
 
-合计: **154,986** 行代码（覆盖前 5 种语言、共 **3687** 个文件）。
+合计: **155,039** 行代码（覆盖前 5 种语言、共 **3693** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 104,425 | 10,200 | 18,296 | 572 |
-| Meson | 19,261 | 2,170 | 4,978 | 1648 |
-| C | 8,159 | 626 | 1,519 | 957 |
+| Python | 104,448 | 10,203 | 18,298 | 572 |
+| Meson | 19,273 | 2,174 | 4,982 | 1649 |
+| C | 8,167 | 626 | 1,519 | 961 |
 | Yaml | 6,085 | 52 | 653 | 102 |
-| Json | 4,979 | 0 | 31 | 408 |
+| Json | 4,984 | 0 | 31 | 409 |
 
 ## OpenSSF Scorecard 评分
 
@@ -43,27 +43,27 @@ x install meson
 ## 发布
 
 - **最新版本**: `1.13.0rc1` (2026-09-22)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 6,678 · **Fork**: 1,973 · **开放 issue**: 6,709 · **贡献者**: 1,030
+- **Star**: 6,680 · **Fork**: 1,973 · **开放 issue**: 6,709 · **贡献者**: 1,030
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 7250 · **开放 PR**: 499 · **已关闭 issue**: 5010 · **开放 issue**: 1699 · **提交数**: 18158
+- **发布数**: 192 · **已合并 PR**: 7253 · **开放 PR**: 496 · **已关闭 issue**: 5010 · **开放 issue**: 1699 · **提交数**: 18163
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 26 | 22 | 8 | 8 | 31 |
-| last60d | 2026-09-25 | 1 | 73 | 28 | 19 | 14 | 133 |
-| 90d | 2026-08-26 | 2 | 111 | 32 | 32 | 22 | 244 |
-| last180d | 2026-05-28 | 7 | 231 | 51 | 82 | 73 | 670 |
-| 360d | 2025-11-29 | 17 | 503 | 74 | 187 | 149 | 1440 |
-| last720d | 2024-12-04 | 37 | 1054 | 148 | 531 | 323 | 2987 |
+| 30d | 2026-10-26 | 1 | 27 | 17 | 8 | 7 | 36 |
+| last60d | 2026-09-26 | 1 | 75 | 25 | 19 | 14 | 138 |
+| 90d | 2026-08-27 | 2 | 111 | 29 | 30 | 19 | 249 |
+| last180d | 2026-05-29 | 7 | 234 | 48 | 82 | 72 | 675 |
+| 360d | 2025-11-30 | 17 | 503 | 71 | 186 | 148 | 1445 |
+| last720d | 2024-12-05 | 37 | 1056 | 145 | 530 | 322 | 2991 |
 
 ## Release 资产
 
@@ -75,25 +75,6 @@ x install meson
 | [meson-reference.3](https://github.com/mesonbuild/meson/releases/download/1.12.1/meson-reference.3) | 376.7 KiB | `other` |
 | [reference_manual.json](https://github.com/mesonbuild/meson/releases/download/1.12.1/reference_manual.json) | 607.5 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/meson) 上共有 **350** 个发行版报告此项目。**76** 个 ✅ 已是最新上游版本，**180** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.12.1` | ✅ latest |
-| Debian 14 | `1.12.1` | ✅ latest |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.10.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.3.2` | ⚠️ outdated |
-| Arch | `1.12.1` | ✅ latest |
-| Homebrew | `1.12.1` | ✅ latest |
-| Fedora rawhide | `1.12.1` | ✅ latest |
-| Nix unstable | `1.12.1` | ✅ latest |
-| Void | `1.12.0` | ⚠️ outdated |
-| Alpine edge | `1.12.1` | ✅ latest |
-| openSUSE Tumbleweed | `1.12.1` | ✅ latest |
-
 ## 改进这些数据
 
 meson 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `meson` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -103,4 +84,4 @@ meson 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:50:00Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:27:26Z._
